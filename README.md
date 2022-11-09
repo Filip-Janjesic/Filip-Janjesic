@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Filip Janješić.
+- 👋 Hi, I’m Filip Janješić.
 - 👀 I’m interested in PHP, running, learning new things and languages.
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning PHP at Edunova.
 - 📫 How to reach me filip.janjesic@gmail.com
 
 <!---
