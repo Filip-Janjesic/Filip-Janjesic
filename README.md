@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Filip-Janjesic?tab=repositories](https://github.com/Filip-Janjesic?tab=repositories)
 
-- 📫 How to reach me: 1. **filip.janjesic@gmail.com**
+- 📫 How to reach me: **filip.janjesic@gmail.com**
 - <a href="https://www.linkedin.com/in/filip-janje%C5%A1i%C4%87-387a57259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip janješić" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
