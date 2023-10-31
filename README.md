@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip Janješić</h1>
 <h3 align="center">A passionate backend developer from Croatia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=filip-janjesic&label=Profile%20views&color=0e75b6&style=flat" alt="filip-janjesic" /> </p>
-
 - 🔭 I’m currently working on **finish education at Edunova for PHP backend developer**
 
 - 🌱 I’m currently learning **PHP**
