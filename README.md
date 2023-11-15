@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filip Janješić</h1>
 <h3 align="center">A passionate backend developer from Croatia</h3>
 
-- 🔭 I’m currently working on **finish education at Edunova for PHP backend developer**
+- 🔭 I’m currently working on **finishing education at Edunova for C# backend developer**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **C# and I already learnd PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Filip-Janjesic?tab=repositories](https://github.com/Filip-Janjesic?tab=repositories)
 
